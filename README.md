@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GummulaLikhitha
-- 👀 I’m interested in dancing
+- 👀 I’m interested in singing
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
