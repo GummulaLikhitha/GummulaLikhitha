@@ -1,0 +1,42 @@
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Login Form',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: LoginForm(),
+    );
+  }
+}
+
+class LoginForm extends StatefulWidget {
+  @override
+  _LoginFormState createState() => _LoginFormState();
+}
+
+class _LoginFormState extends State<LoginForm> {
+  final _formKey = GlobalKey<FormState>();
+  final _emailController = TextEditingController();
+  @override
+  void dispose() {
+    _emailController:dispose();
+    _passwordController:dispose();
+    super.dispose();
+  }
+  void _login() {
+    if(_formKey.currentState!.validate()) [
+   String email=_emailController.text;
+   String password=_passwordController.text;
+   print('Email:$email');
+   print('Password:$password');
+   }
+  }
+
