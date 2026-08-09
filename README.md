@@ -1,3 +1,5 @@
+# Hi I am Likhitha
+
 # 💫 About Me:
 Hi, I’m Gummula Likhitha 👋<br>A passionate B.Tech Computer Science student with a strong foundation in programming and problem-solving. I enjoy building real-world applications using Java, web technologies, and databases.<br><br>💻 Skilled in: Java, JDBC, Servlets, HTML, CSS, JavaScript, MySQL<br>🚀 Projects: QR-Based Parking System, Ad Click Fraud Detection (ML), Bug Tracking System<br>🤖 Internship: Developed an AI chatbot using Python and basic NLP techniques<br><br>I’m currently looking for entry-level opportunities where I can apply my skills, learn new technologies, and grow as a developer.<br><br>📫 Let’s connect and build something amazing!<br>
 
